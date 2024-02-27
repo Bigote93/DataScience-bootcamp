@@ -9,7 +9,7 @@ from io import StringIO
 import json
 
 # Variables globales
-df_traffic = None  # Inicializamos la variable global
+df_traffic = None  # Inicializamos la variable globals
 
 
 # URLS
