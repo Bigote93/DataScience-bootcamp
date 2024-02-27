@@ -4,7 +4,6 @@
 
 # Librerias
 import pandas as pd
-import variables 
 import requests
 from io import StringIO
 import json
